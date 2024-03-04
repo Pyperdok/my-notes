@@ -1,7 +1,7 @@
 # Необходимый стек технологий: Ngnix, Docker/Docker Compose, Markdown, PHP - Laravel, Postgres
 
 Описание и схема архитектуры сервиса
-![image](https://cdn.discordapp.com/attachments/518884668997632021/1208661227601920010/image.png?ex=65e4187c&is=65d1a37c&hm=0e5e33e883fd5af10d66cf0f00e8d4aea2dfca5e6abd89d557bba017b45e32da)
+![Architecture](architecture.png)
 
 **Интернет**: Все начинается с запроса из Интернета. Это может быть запрос от пользователя или другого сервиса, который направлен на сервер, на котором работает бэкенд.
 
